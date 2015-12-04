@@ -8,6 +8,34 @@ Inserting: 2348 Beer Thirty 091658 091678 T 14.00 35
 Inserting: 1346 Aftir Noon 091658 091678 S 34876.00 .24
 Inserting: 2146 Seeya Later 091658 091678 S 46500.50 .32
 
+=================Paychecks for Row: 0==================
+Row 0 contains: 9 items
+After              405.00
+Aftir             8370.24
+Beer               490.00
+Duck               340.00
+Johnson          26500.00
+Kettle           42000.00
+Montana           6000.00
+Mouse            32000.00
+Seeya            14880.00
+
+=======================================================
+
+===============Employee Types in Row: 0================
+Row 0 contains: 9 items
+After        is a Temporary   employee
+Aftir        is a Salary      employee
+Beer         is a Temporary   employee
+Duck         is a Temporary   employee
+Johnson      is a Managerial  employee
+Kettle       is a Managerial  employee
+Montana      is a Salary      employee
+Mouse        is a Managerial  employee
+Seeya        is a Salary      employee
+
+=======================================================
+
 Moving iterator G's cursor to the first element
 
 Moving iterator S's cursor to the first element
@@ -37,6 +65,40 @@ Inserting: 2246 McGuire Marck 091658 091678 T 10.00 38
 Inserting: 2246 Wonder Woman 091658 091678 T 8.50 42
 Inserting: 2246 Bat Man 091658 091678 S 45500.00 .23
 Inserting: 2246 Gilmore Happy 091658 091678 S 34567.00 .45
+
+===========Paychecks for Rows: 1 through 2=============
+Row 1 contains: 1 item
+Insta              475.00
+
+
+Row 2 contains: 10 items
+Johnson          26500.00
+Kettle           42000.00
+McGuire            380.00
+Montana           6000.00
+Mouse            32000.00
+Rice             49856.40
+Seeya            14880.00
+Wannabe            546.00
+Wonder             357.00
+Zeena             4222.08
+
+=======================================================
+
+===============Employee Types in Row: 2================
+Row 2 contains: 10 items
+Johnson      is a Managerial  employee
+Kettle       is a Managerial  employee
+McGuire      is a Temporary   employee
+Montana      is a Salary      employee
+Mouse        is a Managerial  employee
+Rice         is a Managerial  employee
+Seeya        is a Salary      employee
+Wannabe      is a Temporary   employee
+Wonder       is a Temporary   employee
+Zeena        is a Salary      employee
+
+=======================================================
 
 Moving iterator G's cursor forward 4 spaces.
 

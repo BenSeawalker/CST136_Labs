@@ -19,7 +19,7 @@
 *	Private:
 *		FindNext()   : void
 *************************************************************************/
-template<typename T, typename KT, typename RT = char>
+template<typename T, typename KT, typename RT>
 class RangeIterator : public ISAMIterator<T, KT>
 {
 public:

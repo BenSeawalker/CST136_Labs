@@ -215,7 +215,7 @@ stringstream ISAMController::m_output = stringstream("");
 		switch (employee_type)
 		{
 		case 'S':
-			m_ISAM->Insert(new Salary(worknum, last, first, bdate, employed, int(pay1), pay2, &m_output));
+			m_ISAM->Insert(new Salary(worknum, last, first, bdate, employed, (int)pay1, pay2, &m_output));
 			break;
 
 		case 'T':
